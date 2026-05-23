@@ -9,3 +9,4 @@ This is my submission for Trijam-373. The game is called "Keep Clicking The Cube
 Start Time - 9:04pm Saturday 23/05/26
 
 Submission time - 12:04am Sunday 24/05/26
+Submission link: https://itch.io/jam/trijam-373/rate/4604215 
