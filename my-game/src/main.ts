@@ -5,10 +5,13 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">
   <h1>Keep clicking the cube</h1>
   <h2 id="value"></h2>
+  <h3 id="message"><h3>
   <button id="counter" type="button" class="counter"></button>
 </section>
 `
 
-setupCounter(document.querySelector<HTMLButtonElement>('#counter')!, document.querySelector<HTMLHeadElement>('#value')!)
+setupCounter(document.querySelector<HTMLButtonElement>('#counter')!,
+ document.querySelector<HTMLHeadElement>('#value')!,
+document.querySelector<HTMLHeadElement>('#message')!)
 
 
