@@ -7,3 +7,5 @@ This is my submission for Trijam-373. The game is called "Keep Clicking The Cube
 5. Compile the project and submit.
 
 Start Time - 9:04pm Saturday 23/05/26
+
+Submission time - 12:04am Sunday 24/05/26
