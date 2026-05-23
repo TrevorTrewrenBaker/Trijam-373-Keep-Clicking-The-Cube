@@ -42,7 +42,7 @@ export function setupCounter(button: HTMLButtonElement, header: HTMLHeadElement,
     setCounter(counter + 1)
   })
   
-  setCounter(349)
+  setCounter(0)
 }
 
 
